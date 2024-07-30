@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://wu-jiahua.github.io/sitemap.xml
