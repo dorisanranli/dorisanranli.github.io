@@ -9,19 +9,15 @@ nav_order: 2
 You can also find my articles on [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1671980) and [Google Scholar](https://scholar.google.com/citations?user=YoOys2oAAAAJ&hl=en).
 
 ### Journal Articles
-* [Intertemporal price discrimination via randomized promotions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3223844) with H. Chen and M. Hu, 2023, **Manufacturing and Service Operations Management**, 25(3), 1176-1194
+* [Estimating Demand with Unobserved No-purchases on Revenue-managed Data,](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3525773) with Kalyan Talluri and Muge Tekin, 2024, **Manufacturing and Service Operations Management**, Forthcoming
 
-* [Contingent stimulus in crowdfunding](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2925962) with L. Du and M. Hu, 2022, **Production and Operations Management**, 31(9), 3543-3558
+* [A Random Consideration Set Model for Demand Estimation, Assortment Optimization, and Pricing](https://pubsonline.informs.org/doi/abs/10.1287/opre.2019.0333) with Guillermo Gallego, 2024, **Operations Research**, Available Online
 
-* [Sales effort management under all-or-nothing constraint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3506499) with L. Du and M. Hu, 2021, **Management Science**, 68(7), 5109-5126
+* [Assortment Optimization and Pricing Under the Multinomial Logit Model with Impatient Customers: Sequential Recommendation and Selection](https://pubsonline.informs.org/doi/10.1287/opre.2021.2127) with Pin Gao, Yuhang Ma, Ningyuan Chen, Guillermo Gallego, Paat Rusmevichientong and Huseyin Topaloglu,  **Operations Research**, Vol. 69, No. 5
 
-* [Consumer profiling with data requirements: Structure and policy implications](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2760276) with T. Valletti, 2020, **Production and Operations Management**, 29(2), 309-329
+* [Reviews and Self-selection Bias with Operational Implications](https://pubsonline.informs.org/doi/10.1287/mnsc.2020.3892) with Ningyuan Chen and Kalyan Talluri, 2021, **Management Science**, Vol. 67, No. 12
 
-* [Liking and following and the newsvendor: Operations and marketing policies under social influence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2292787) with M. Hu and J. Milner, 2016, **Management Science**, 62(3), 867-879
-
-* [Threshold effects in online group buying](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2176554) with M. Shi and M. Hu, 2015, **Management Science**, 61(9), 2025-2040
-
-* [Simultaneous vs. sequential group-buying mechanisms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1862465) with M. Hu and M. Shi, 2013, **Management Science**, 59(12), 2805-2822
+* [Approximation Algorithms for Product Framing and Pricing](https://pubsonline.informs.org/doi/abs/10.1287/opre.2019.1875) with Guillermo Gallego, Van-Anh Truong and Xinshang Wang, 2020, **Operations Research**, Vol. 68, No. 19
 
 ### Selected Working Papers
 * [Information Design and Pricing of Supply Competition in Lead-Selling Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872681) with Y. Sun, N. Zamani Foroushani and Z. Liu
@@ -31,7 +27,5 @@ You can also find my articles on [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsB
 
 * [Prosocial spectrum of crowdfunding projects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3677790) with W. Deng, M. Shi and M. Hu
 
-### Books and Conference Publications
-* [Online group buying and crowdfunding: Two cases of all-or-nothing mechanisms](https://link.springer.com/chapter/10.1007/978-3-030-01863-4_14) with M. Hu and M. Shi, 2019, **Sharing Economy: Making Supply Meet Demand**, M. Hu (ed.), 319--346, in *Springer Series in Supply Chain Management*, C. Tang (series ed.)
-
-* [Keep cache replacement simple in peer-assisted VoD systems](https://ieeexplore.ieee.org/document/5062193) with B. Li, in the Proceedings of IEEE INFOCOM 2009
+### Books 
+* [Survey: Data-Driven Prediction, Optimization Under Customers' Choice Behavior] with with Chenxu Ke and Ruxian Wang, soon to appear at *Foundations and Trends in Technology, Information and Operations Management* 
