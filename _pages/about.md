@@ -6,13 +6,12 @@ subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: anran li_thumb.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>386A Business School,</p>
-    <p>South Kensington Campus,</p>
-    <p>Imperial College London,</p>
-    <p>UK, SW7 2AZ</p>
+    <p>Room 940, 9/F, Cheng Yu Tung Building</p>
+    <p>CUHK Business School,</p>
+    <p>Shatin, Hong Kong</p>
 
 news: true # includes a list of news items
 # selected_papers: true # includes a list of papers marked as "selected={true}"
