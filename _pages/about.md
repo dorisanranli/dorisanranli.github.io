@@ -6,7 +6,7 @@ subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: anran li_thumb.jpg
+  image: anran_li_thumb.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Room 940, 9/F, Cheng Yu Tung Building</p>
