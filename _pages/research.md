@@ -6,7 +6,7 @@ title: Research
 nav: true
 nav_order: 2
 ---
-You can also find my articles on [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1671980) and [Google Scholar](https://scholar.google.com/citations?user=YoOys2oAAAAJ&hl=en).
+You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=i75Z82MAAAAJ&hl=en).
 
 ### Journal Articles
 * [Estimating Demand with Unobserved No-purchases on Revenue-managed Data,](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3525773) with Kalyan Talluri and Muge Tekin, 2024, **Manufacturing and Service Operations Management**, Forthcoming
