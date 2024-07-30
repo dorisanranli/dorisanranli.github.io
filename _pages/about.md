@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Room 940, 9/F, Cheng Yu Tung Building</p>
-    <p>CUHK Business School,</p>
+    <p>Room 940, 9/F, CYT Building</p>
+    <p>CUHK Business School</p>
     <p>Shatin, Hong Kong</p>
 
 news: true # includes a list of news items
