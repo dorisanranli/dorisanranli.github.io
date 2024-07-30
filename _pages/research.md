@@ -28,4 +28,4 @@ You can also find my articles on [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsB
 * [Prosocial spectrum of crowdfunding projects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3677790) with W. Deng, M. Shi and M. Hu
 
 ### Books 
-* [Survey: Data-Driven Prediction, Optimization Under Customers' Choice Behavior] with with Chenxu Ke and Ruxian Wang, soon to appear at *Foundations and Trends in Technology, Information and Operations Management* 
+* [Survey: Data-Driven Prediction, Optimization Under Customers' Choice Behavior] with with Chenxu Ke and Ruxian Wang, soon to appear at **Foundations and Trends in Technology, Information and Operations Management** 
