@@ -10,15 +10,15 @@ horizontal: false
 ---
 
 ### The Chinese University of Hong Kong
-* Supply Chain & Logistics Management (Dec 2022, 2023, 2024)
-* Supply Chain & Logistics Analytics (Jan 2023, 2024)
-* Global Supply Chain Management (Dec 2023, 2024)
-* Research Seminar in Operations & SCM (Jan 2023,2024)
+* Supply Chain & Logistics Management (MSc in Business Analytics, MSc in Information and Technology Management)
+* Supply Chain & Logistics Analytics (Undergraduate)
+* Global Supply Chain Management (MSc in Management)
+* Research Seminar in Operations & SCM (PhD)
 
 ### London School of Economics and Political Science
-* Managerial Economics and Operations Management (Sep 2018)
-* Supply Chain Management (Jan 2019, 2020, 2021, 2022)
-* Operations Management for Management Consultancy (Jan 2020, 2021, 2022)
+* Managerial Economics and Operations Management (MSc in Management)
+* Supply Chain Management (Global MSc in Managment and MBA Exchange)
+* Operations Management for Management Consultancy (Global MSc in Managment and MBA Exchange)
 
 ### London Business School
-* Demand and Revenue Management (Jul 2020,2022)
+* Demand and Revenue Management (PhD elective)
