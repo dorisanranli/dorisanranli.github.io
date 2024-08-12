@@ -17,8 +17,8 @@ horizontal: false
 
 ### London School of Economics and Political Science
 * Managerial Economics and Operations Management (MSc in Management)
-* Supply Chain Management (Global MSc in Managment and MBA Exchange)
-* Operations Management for Management Consultancy (Global MSc in Managment and MBA Exchange)
+* Supply Chain Management (Global MSc in Management and MBA Exchange)
+* Operations Management for Management Consultancy (Global MSc in Management and MBA Exchange)
 
 ### London Business School
 * Demand and Revenue Management (PhD elective)
