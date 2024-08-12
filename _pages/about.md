@@ -12,6 +12,7 @@ profile:
     <p>Room 940, 9/F, CYT Building</p>
     <p>CUHK Business School</p>
     <p>Shatin, Hong Kong</p>
+    <p>Email: <a href="mailto:anranli@cuhk.edu.hk">anranli@cuhk.edu.hk</a></p>
 
 news: true # includes a list of news items
 # selected_papers: true # includes a list of papers marked as "selected={true}"
